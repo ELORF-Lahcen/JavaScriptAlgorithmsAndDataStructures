@@ -1,5 +1,5 @@
 const character = "#";
-const count = 10;
+const count = 20;
 const rows = [];
 
 
