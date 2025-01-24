@@ -53,3 +53,59 @@ A collection of projects and exercises focused on JavaScript algorithms and data
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ELORF-Lahcen/JavaScriptAlgorithmsAndDataStructures.git
+   ```
+2. **Accédez au répertoire du projet** :
+   ```bash
+   cd JavaScriptAlgorithmsAndDataStructures
+   ```
+
+--- 
+
+## 📂 Project Structure
+
+```plaintext
+JavaScriptAlgorithmsAndDataStructures/
+├── [1]PyramidGeneratorProject/
+├── [2]GradebookAppProject/
+├── [3]RolePlayingGameProject/
+├── [4]RandomBackgroundColorChangerProject/
+├── [5]CalorieCounterProject/
+├── [6]RockPaperScissorsGameProject/
+├── [7]MusicPlayerProject/
+├── [8]PalindromeCheckerProject/
+├── [9]DateFormatterProject/
+├── [10]FootballTeamCardsProject/
+├── [11]TodoListAppProject/
+├── [12]DecimalToBinaryConverterProject/
+├── [13]RomanNumeralConverterProject/
+├── [14]SpamFilterProject/
+├── [15]NumberSorterProject/
+├── [16]StatisticsCalculatorProject/
+├── [17]SpreadsheetProject/
+├── [18]TelephoneNumberValidatorProject/
+├── [19]ShoppingCartProject/
+├── [20]PlatformerGameProject/
+├── [21]DiceGameProject/
+├── [22]CashRegisterProject/
+├── [23]fCCAuthorsPageProject/
+├── [24]fCCforumLeaderboardProject/
+├── [25]PokémonSearchProject/
+└── README.md
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please open a pull request.
+
+1. Fork the project.
+2. Create a new feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to your branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+---
+
+👨‍💻 Made with ❤️ by [Lahcen ELORF](https://github.com/elorf-lahcen)
+
